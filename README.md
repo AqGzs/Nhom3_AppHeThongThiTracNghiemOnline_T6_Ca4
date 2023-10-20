@@ -2,7 +2,7 @@
 
 ## Môn: Thực hành CNPMNC
 
-## Đề Tài: App Hệ Thống Thi Trắc nghiệm Online  <img src="quiz.png" alt="Loading" width="40" style ="border-radius:10% 50%;" />
+## Đề Tài: App Hệ Thống Thi Trắc nghiệm Online  <img src="quiz.png" alt="Loading" width="90" style ="border-radius:10% 80%;" />
 
 ## Thành viên nhóm
 | MSSV | Tên sinh viên | Chức vụ | Ảnh|
