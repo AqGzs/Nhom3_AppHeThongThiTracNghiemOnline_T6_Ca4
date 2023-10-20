@@ -33,6 +33,7 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 
 ## <p align="center"> Công nghệ:
 
+<p> Nhớ bấm play để chạy !!! </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - [ Android Studio ](https://developer.android.com/) <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Loading" width="20" style ="border-radius:10% 50%;" />
