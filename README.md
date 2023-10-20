@@ -25,9 +25,9 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 | MSSV | Tên sinh viên | Chức vụ | Ảnh|
 |--------|------------------------|-----------------------------|------------------------------------------------------------------|
 | 21DH114057 | [ Nguyễn Hoàng Anh Quốc](https://github.com/AqGzs) | Team Leader | <img src="aq.jpg" alt="Size Limit CLI" width="200"> |
-| 21DH113041  | [ Nguyễn Hoàng Phúc ](https://github.com/hoangphuc210103) | Product Owner|  <img src="phuc.jpg" alt="Size Limit CLI" width="200"> |
-| 21DH111438 | [ Phan Thị Ngọc Trang ](https://github.com/ngoctrang1903) | Scrum Master|  <img src="trang.jpg" alt="Size Limit CLI" width="200"> |
-| 21DH111391 | [ Lại Quang Phi ](https://github.com/quangphi98) | DEV |  <img src="phi.jpg" alt="Size Limit CLI" width="200"> |
+| 21DH113041  | [ Nguyễn Hoàng Phúc ](https://github.com/hoangphuc210103) | DEV |  <img src="phuc.jpg" alt="Size Limit CLI" width="200"> |
+| 21DH111438 | [ Phan Thị Ngọc Trang ](https://github.com/ngoctrang1903) | Product Owner|  <img src="trang.jpg" alt="Size Limit CLI" width="200"> |
+| 21DH111391 | [ Lại Quang Phi ](https://github.com/quangphi98) | Scrum Master |  <img src="phi.jpg" alt="Size Limit CLI" width="200"> |
 
 ## <p align="center"> Công nghệ:
 - [ Android Studio ](https://developer.android.com/) <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Loading" width="20" style ="border-radius:10% 50%;" />
