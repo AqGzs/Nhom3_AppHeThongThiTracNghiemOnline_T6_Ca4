@@ -12,7 +12,7 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 | Làm được| Chưa được |
 |-----------------------------------------|------------------------------------------------------------|
 | Quản lý tài khoản | Chưa cập nhật bài thi theo môn |
-| Quản lý lớp học | 
+| Quản lý lớp học | Xem lại lịch sử bài thi |
 | Quản lý môn học |
 | Điểm danh | 
 | Quản lý bài thi | 
