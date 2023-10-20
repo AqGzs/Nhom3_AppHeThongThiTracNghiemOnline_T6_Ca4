@@ -12,16 +12,13 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 ### <p align="center"> Những gì làm được và chưa được:
 | Làm được| Chưa được |
 |-----------------------------------------|------------------------------------------------------------|
-| + Quản lý tài khoản | + Chưa cập nhật bài thi theo môn |
-| + Quản lý lớp học | 
-| + Quản lý môn học |
-| + Điểm danh | 
-| + Quản lý bài thi | 
-| + Làm bài thi | 
-| + Chấm điểm |
-
-
-
+| Quản lý tài khoản | Chưa cập nhật bài thi theo môn |
+| Quản lý lớp học | 
+| Quản lý môn học |
+| Điểm danh | 
+| Quản lý bài thi | 
+| Làm bài thi | 
+| Chấm điểm |
 
 
 ## <p align="center"> Thành viên nhóm
