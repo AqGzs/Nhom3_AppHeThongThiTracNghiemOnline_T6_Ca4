@@ -1,28 +1,5 @@
 ﻿#  <p align="center"> [Trường đại học Ngoại ngữ - Tin học TP.Hồ Chí Minh](https://huflit.edu.vn/)  <p align="center"> <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/09/Logo-DH-Ngoai-Ngu-Tin-Hoc-HUFLIT.png" alt="Loading" width="150"> </p>
- ##
-<html>
-<head>
-    <title>Chữ thay đổi theo giây</title>
-</head>
-<body>
-    <p id="dynamic-text">Chữ thay đổi sau mỗi giây:</p>
-
-    <script>
-        // Mảng các nội dung cần thay đổi
-        var texts = ["Chữ thay đổi sau mỗi giây:", "Xin chào!", "Chào mọi người!", "Đây là ví dụ động."];
-        var currentIndex = 0; // Vị trí hiện tại trong mảng
-
-        // Hàm để cập nhật nội dung của phần tử
-        function updateText() {
-            document.getElementById("dynamic-text").innerHTML = texts[currentIndex];
-            currentIndex = (currentIndex + 1) % texts.length; // Di chuyển đến nội dung tiếp theo
-        }
-
-        // Gọi hàm updateText sau mỗi giây
-        setInterval(updateText, 1000); // 1000 milliseconds = 1 giây
-    </script>
-</body>
-</html>
+## <p align="center"> Môn: CNPMNC Thực Hành
 
 ## <p align="center"> Đề Tài: App Hệ Thống Thi Trắc nghiệm Online  
 <p align="center"> <img src="quiz.png" alt="Loading" width="600" style ="border-radius:10% 80%;" > </p>
