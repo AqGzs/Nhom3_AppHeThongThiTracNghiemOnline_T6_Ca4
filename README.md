@@ -7,9 +7,9 @@
 ## Thành viên nhóm
 | MSSV | Tên sinh viên | Chức vụ | Ảnh|
 |-----------|--|
-| 21DH114057 | [ Nguyễn Hoàng Anh Quốc](https://github.com/AqGzs) |Team Leader|<p align="center">
-  <img src="aq.jpg" alt="Size Limit CLI" width="200">
-</p>
+| 21DH114057 | [ Nguyễn Hoàng Anh Quốc](https://github.com/AqGzs) |Team Leader|<p align="center">  <img src="aq.jpg" alt="Size Limit CLI" width="200"> </p>|
+
+
 | 21DH113041  | [ Nguyễn Hoàng Phúc ](https://github.com/hoangphuc210103) |Product Owner|<p align="center">
   <img src="phuc.jpg" alt="Size Limit CLI" width="200">
 </p>
