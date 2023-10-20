@@ -10,20 +10,19 @@ Trong hệ thống thi trắc nghiệm online, mỗi giáo viên và học sinh 
 Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài thi của từng học sinh trên hệ thống, điểm danh mỗi buổi học. Đối với mỗi đề thi, giáo viên nhập trực tiếp nội dung đề thi và đáp án vào form có sẵn trên hệ thống.
 
 ### <p align="center"> Những gì làm được và chưa được:
-| Làm được | 
-|--|
-| + Quản lý tài khoản |
+| Làm được| Chưa được |
+|--|--|
+| + Quản lý tài khoản | + Chưa cập nhật bài thi theo môn |
 | + Quản lý lớp học | 
 | + Quản lý môn học |
 | + Điểm danh | 
 | + Quản lý bài thi | 
 | + Làm bài thi | 
 | + Chấm điểm |
-<p align="center"> 
 
- | Chưa được |
-|--|
-| + Chưa cập nhật bài thi theo môn |
+
+
+
 
 ## <p align="center"> Thành viên nhóm
 | MSSV | Tên sinh viên | Chức vụ | Ảnh|
