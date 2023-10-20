@@ -1,5 +1,19 @@
 ﻿#  <p align="center"> [Trường đại học Ngoại ngữ - Tin học TP.Hồ Chí Minh](https://huflit.edu.vn/)  <p align="center"> <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/09/Logo-DH-Ngoai-Ngu-Tin-Hoc-HUFLIT.png" alt="Loading" width="150"> </p>
-## <p align="center"> Môn: Thực hành CNPMNC
+## <p align="center"> <p id="dynamic-text"> Môn:Thực hành CNPMNC </p> 
+<script>
+        // Mảng các nội dung cần thay đổi
+        var texts = ["Môn:Thực hành CNPMNC", "Lớp Thầy Khoa", "Chào mọi người!", " *v* "];
+        var currentIndex = 0; // Vị trí hiện tại trong mảng
+
+        // Hàm để cập nhật nội dung của phần tử
+        function updateText() {
+            document.getElementById("dynamic-text").innerHTML = texts[currentIndex];
+            currentIndex = (currentIndex + 1) % texts.length; // Di chuyển đến nội dung tiếp theo
+        }
+
+        // Gọi hàm updateText sau mỗi giây
+        setInterval(updateText, 1000); // 1000 milliseconds = 1 giây
+  </script>
 
 ## <p align="center"> Đề Tài: App Hệ Thống Thi Trắc nghiệm Online  
 <p align="center"> <img src="quiz.png" alt="Loading" width="600" style ="border-radius:10% 80%;" > </p>
