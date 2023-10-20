@@ -9,7 +9,7 @@
 Trong hệ thống thi trắc nghiệm online, mỗi giáo viên và học sinh đều được cấp 1 tài khoản duy nhất. Khóa học bao gồm các lớp cùng trong một niên khóa.Khi học sinh đăng nhập vào hệ thống, tùy vào thông tin lớp mà học sinh đó học, hệ thống sẽ biết thời gian hôm nay học sinh đó thi môn nào và cho phép học sinh làm bài thi. Sau khi học sinh bấm nộp bài thì hệ thống sẽ tự động đối chiếu với đáp án đúng của giáo viên đã chọn để chấm điểm bài thi đó. Bài thi sẽ theo từng môn học trong một kì của lớp. Bài thi của một môn học sẽ do giáo viên dạy môn học đó cho lớp ra đề thi.
 Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài thi của từng học sinh trên hệ thống, điểm danh mỗi buổi học. Đối với mỗi đề thi, giáo viên nhập trực tiếp nội dung đề thi và đáp án vào form có sẵn trên hệ thống.
 
-### <p align="center"> Những gì làm được và chưa được:
+### <p align="center" width="300"> Những gì làm được và chưa được:
 | Làm được| Chưa được |
 |--|--|
 | + Quản lý tài khoản | + Chưa cập nhật bài thi theo môn |
@@ -24,7 +24,7 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 
 
 
-## <p align="center"> Thành viên nhóm
+## <p align="center" width="300"> Thành viên nhóm
 | MSSV | Tên sinh viên | Chức vụ | Ảnh|
 |-----------|--|--|------------------------------------------------------------------|
 | 21DH114057 | [ Nguyễn Hoàng Anh Quốc](https://github.com/AqGzs) | Team Leader | <img src="aq.jpg" alt="Size Limit CLI" width="80"> |
