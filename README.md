@@ -11,7 +11,7 @@ Trong hệ thống thi trắc nghiệm online, mỗi giáo viên và học sinh 
 Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài thi của từng học sinh trên hệ thống, điểm danh mỗi buổi học. Đối với mỗi đề thi, giáo viên nhập trực tiếp nội dung đề thi và đáp án vào form có sẵn trên hệ thống.
 
 ### <p align="center"> Những gì làm được và chưa được:
-<p align="center">| Làm được | 
+| Làm được | 
 |--|
 | + Quản lý tài khoản |
 | + Quản lý lớp học | 
@@ -21,32 +21,22 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 | + Làm bài thi | 
 | + Chấm điểm |
 
-<p align="center"> | Chưa được |
+ | Chưa được |
 |--|
 | + Chưa cập nhật bài thi theo môn |
 
-## Thành viên nhóm
-<p align="center"> | MSSV | Tên sinh viên | Chức vụ | Ảnh|
+## <p align="center"> Thành viên nhóm
+| MSSV | Tên sinh viên | Chức vụ | Ảnh|
 |-----------|--|--|------------------------------------------------------------------|
 | 21DH114057 | [ Nguyễn Hoàng Anh Quốc](https://github.com/AqGzs) | Team Leader | <img src="aq.jpg" alt="Size Limit CLI" width="80"> |
 | 21DH113041  | [ Nguyễn Hoàng Phúc ](https://github.com/hoangphuc210103) | Product Owner|  <img src="phuc.jpg" alt="Size Limit CLI" width="80"> |
 | 21DH111438 | [ Phan Thị Ngọc Trang ](https://github.com/ngoctrang1903) | Scrum Master|  <img src="trang.jpg" alt="Size Limit CLI" width="80"> |
 | 21DH111391 | [ Lại Quang Phi ](https://github.com/quangphi98) | DEV |  <img src="phi.jpg" alt="Size Limit CLI" width="80"> |
 
-
-
-
-## Công nghệ:
+## <p align="center"> Công nghệ:
 - [ Android Studio ](https://developer.android.com/) <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Loading" width="20" style ="border-radius:10% 50%;" />
 - [ SQLite ](https://www.sqlite.org/index.html) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
 - [ Firebase ](https://firebase.google.com/) <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/media/5f34fd1aa2ebfaf2cd548bafeb021c8f.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
 - [ API ](https://mona.media/api-la-gi/) <img src="https://t4.ftcdn.net/jpg/03/22/95/69/360_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg" alt="Loading" width="20" style ="border-radius:10% 50%;" />
 
-## Phân công công việc:
-| STT | [ Lê Minh Thanh ](https://github.com/Thanh203) | [ Nguyễn Hoàng Anh Quốc ](https://github.com/AqGzs)| [ Đặng Trần Hoàng Phú Quý ](https://github.com/DTHPQuy) |
-|-----------|--|------|-------|
-| 1  | + Đánh giá | + Đăng nhập/ đăng ký | + Quản lý sách |
-| 2  | + Thanh toán online | + Đăng nhập = gmail | + Quản lý danh mục |
-| 3  | + Lịch sử đọc e-book | + Tìm kiếm nâng cao | + Quản lý đơn hàng |
-| 4  | + Xem trước e-book | + Giỏ hàng | + Quản lý khách hàng |
 
