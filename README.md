@@ -19,6 +19,7 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 | + Quản lý bài thi | 
 | + Làm bài thi | 
 | + Chấm điểm |
+<p align="center"> 
 
  | Chưa được |
 |--|
