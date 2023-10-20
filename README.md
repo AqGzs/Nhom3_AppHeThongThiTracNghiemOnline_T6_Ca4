@@ -29,9 +29,12 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 | 21DH111438 | [ Phan Thị Ngọc Trang ](https://github.com/ngoctrang1903) | Product Owner|  <img src="trang.jpg" alt="Size Limit CLI" width="200"> |
 | 21DH111391 | [ Lại Quang Phi ](https://github.com/quangphi98) | Scrum Master |  <img src="phi.jpg" alt="Size Limit CLI" width="200"> |
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ## <p align="center"> Công nghệ:
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - [ Android Studio ](https://developer.android.com/) <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Loading" width="20" style ="border-radius:10% 50%;" />
 - [ SQLite ](https://www.sqlite.org/index.html) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
 - [ Firebase ](https://firebase.google.com/) <img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/media/5f34fd1aa2ebfaf2cd548bafeb021c8f.png" alt="Loading" width="20" style ="border-radius:10% 50%;" />
