@@ -2,7 +2,7 @@
 ## <p align="center"> Môn: Thực hành CNPMNC
 
 ## <p align="center"> Đề Tài: App Hệ Thống Thi Trắc nghiệm Online  
-<p align="center"> <img src="quiz.png" alt="Loading" width="300" style ="border-radius:10% 80%;" > </p>
+<p align="center"> <img src="quiz.png" alt="Loading" width="600" style ="border-radius:10% 80%;" > </p>
 
 ## <p align="center"> Giới Thiệu Chung:
 > Three Education là Hệ thống thi trắc nghiệm online dành cho học sinh các cấp trong nhiều năm và có một vài trường học đã áp dụng hình thức thi online này. Để có thể tiếp cận đến nhiều trường học sử dụng hình thức thi trắc nghiệm online, Three Education muốn đẩy mạnh và nâng cấp Hệ thống thi trắc nghiệm online với nhiều hình thức khác nhau và có tính bảo mật cao. 
