@@ -33,8 +33,8 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 
 ## <p align="center"> Công nghệ:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" > 
--[<img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Loading" width="50" style ="border-radius:10% 50%;" />](https://developer.android.com/)
--[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="Loading" width="50" style ="border-radius:10% 50%;" />](https://www.sqlite.org/index.html) 
--[<img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/media/5f34fd1aa2ebfaf2cd548bafeb021c8f.png" alt="Loading" width="50" style ="border-radius:10% 50%;" />](https://firebase.google.com/) 
--[<img src="https://t4.ftcdn.net/jpg/03/22/95/69/360_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg" alt="Loading" width="50" style ="border-radius:10% 50%;" />](https://mona.media/api-la-gi/) 
+- [<img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Loading" width="50" style ="border-radius:10% 50%;" />](https://developer.android.com/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="Loading" width="50" style ="border-radius:10% 50%;" />(https://www.sqlite.org/index.html) 
+- [<img src="https://cdn.dribbble.com/users/528264/screenshots/3140440/media/5f34fd1aa2ebfaf2cd548bafeb021c8f.png" alt="Loading" width="50" style ="border-radius:10% 50%;" />](https://firebase.google.com/) 
+- [<img src="https://t4.ftcdn.net/jpg/03/22/95/69/360_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg" alt="Loading" width="50" style ="border-radius:10% 50%;" />](https://mona.media/api-la-gi/) 
 
