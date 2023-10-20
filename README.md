@@ -1,8 +1,5 @@
 ﻿#  <p align="center"> [Trường đại học Ngoại ngữ - Tin học TP.Hồ Chí Minh](https://huflit.edu.vn/)  <p align="center"> <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/09/Logo-DH-Ngoai-Ngu-Tin-Hoc-HUFLIT.png" alt="Loading" width="150"> </p>
 ## <p align="center"> Môn: CNPMNC Thực Hành
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 ## <p align="center"> Đề Tài: App Hệ Thống Thi Trắc nghiệm Online  
 <p align="center"> <img src="quiz.png" alt="Loading" width="600" style ="border-radius:10% 80%;" > </p>
 
@@ -23,6 +20,7 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 | Chấm điểm |
 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## <p align="center"> Thành viên nhóm
 | MSSV | Tên sinh viên | Chức vụ | Ảnh|
 |--------|------------------------|-----------------------------|------------------------------------------------------------------|
