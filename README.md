@@ -8,9 +8,9 @@
 | MSSV | Tên sinh viên | Chức vụ | Ảnh|
 |-----------|--|
 
-| 21DH114057 | [ Nguyễn Hoàng Anh Quốc](https://github.com/AqGzs) |Team Leader| <img src="aq.jpg" alt="Size Limit CLI" width="50"> |
-| 21DH113041  | [ Nguyễn Hoàng Phúc ](https://github.com/hoangphuc210103) |Product Owner|  <img src="phuc.jpg" alt="Size Limit CLI" width="50"> |
-| 21DH111438 | [ Phan Thị Ngọc Trang ](https://github.com/ngoctrang1903) |Scrum Master|  <img src="trang.jpg" alt="Size Limit CLI" width="50"> |
+| 21DH114057 | [ Nguyễn Hoàng Anh Quốc](https://github.com/AqGzs) | Team Leader | <img src="aq.jpg" alt="Size Limit CLI" width="50"> |
+| 21DH113041  | [ Nguyễn Hoàng Phúc ](https://github.com/hoangphuc210103) | Product Owner|  <img src="phuc.jpg" alt="Size Limit CLI" width="50"> |
+| 21DH111438 | [ Phan Thị Ngọc Trang ](https://github.com/ngoctrang1903) | Scrum Master|  <img src="trang.jpg" alt="Size Limit CLI" width="50"> |
 | 21DH111391 | [ Lại Quang Phi ](https://github.com/quangphi98) | DEV |  <img src="phi.jpg" alt="Size Limit CLI" width="50"> |
 
 
