@@ -19,7 +19,12 @@ Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài th
 | Làm bài thi | 
 | Chấm điểm |
 
-
+### <p align="center"> Hướng phát triển:
+| Làm được|
+|-----------------------------------------|
+| Luyện đề thi cho học sinh |
+| Giao bài tập  |
+| Chia Bài thi theo môn |
 
 ## <p align="center"> Thành viên nhóm
 | MSSV | Tên sinh viên | Chức vụ | Ảnh|
