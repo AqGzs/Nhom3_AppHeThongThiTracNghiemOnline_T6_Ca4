@@ -9,7 +9,7 @@
 > Ngoài ra, giáo viên có thể trực tiếp quản lí học sinh và bài thi của từng học sinh trên hệ thống, điểm danh mỗi buổi học. Đối với mỗi đề thi, giáo viên nhập trực tiếp nội dung đề thi và đáp án vào form có sẵn trên hệ thống. 
 
 ### <p align="center"> Những gì làm được và chưa được:
-| Làm được| 
+|<p align="center"> Làm được| 
 |-----------------------------------------|
 | Quản lý tài khoản | 
 | Quản lý lớp học | 
@@ -19,7 +19,7 @@
 | Làm bài thi | 
 | Chấm điểm |
 
-| Chưa được |
+| <p align="center"> Chưa được |
 |------------------------------------------------------------|
 | Chưa cập nhật bài thi theo môn |
 | Xem lại lịch sử bài thi |
