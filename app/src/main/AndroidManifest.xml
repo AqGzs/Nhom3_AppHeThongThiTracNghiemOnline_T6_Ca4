@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_monhoc"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QLHocSinh"
+        tools:targetApi="31">
+        <activity
+            android:name=".EditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ResultsActivity"
+            android:label="Results" />
+        <activity
+            android:name=".LamBaiThi"
+            android:exported="true" />
+        <activity
+            android:name=".ThemQues"
+            android:exported="false" />
+        <activity
+            android:name=".DanhSachCauHoi"
+            android:exported="true" />
+        <activity
+            android:name=".ThongTinHS"
+            android:exported="false" />
+        <activity
+            android:name=".HomeHS"
+            android:exported="false" />
+        <activity
+            android:name=".MonHocActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DiemDanhListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ClassActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HocSinhActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NhapDiemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DiemDanhActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EditInfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

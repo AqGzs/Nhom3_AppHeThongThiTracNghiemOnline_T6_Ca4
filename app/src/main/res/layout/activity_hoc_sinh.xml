@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HocSinhActivity">
+
+    <include layout="@layout/layout_appbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chọn lớp:"
+            android:textColor="@color/black"
+            android:textSize="18dp" />
+
+        <Spinner
+            android:id="@+id/spnChooseClass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:minWidth="80dp"
+            android:minHeight="25dp"
+            android:background="@drawable/bg_spinner"/>
+
+        <TextView
+            android:id="@+id/tvTotalHS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:text="Sỉ số:"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lvHS_HS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:dividerHeight="10dp"
+        android:divider="@color/transparent" />
+
+    <Button
+        android:id="@+id/btnInsertHocSinh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/bg_btn_orange_coner"
+        android:text="Thêm học sinh"
+        android:textColor="@color/black"
+        android:enabled="false"/>
+</LinearLayout>

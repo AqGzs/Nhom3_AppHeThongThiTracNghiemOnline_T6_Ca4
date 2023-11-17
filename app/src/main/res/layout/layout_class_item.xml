@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:descendantFocusability="blocksDescendants">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp">
+
+        <ImageButton
+            android:id="@+id/imgClass"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/ic_class_preschool"/>
+
+        <TextView
+            android:id="@+id/btnClass"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Lớp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:textColor="@color/textColor"/>
+    </LinearLayout>
+</LinearLayout>

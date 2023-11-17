@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".InfoActivity">
+
+    <include layout="@layout/layout_appbar"/>
+
+    <ImageView
+        android:id="@+id/tvAvatar"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginVertical="10dp"
+        android:background="@drawable/ic_thaygiao"/>
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:background="@drawable/bg_textview_gray_border"
+        android:hint="Tên của bạn"/>
+
+    <TextView
+        android:id="@+id/tvBorn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:inputType="date"
+        android:background="@drawable/bg_textview_gray_border"
+        android:hint="Ngày sinh"/>
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:inputType="none"
+        android:background="@drawable/bg_textview_gray_border"
+        android:hint="Email"
+        android:editable="false"
+        tools:ignore="Deprecated" />
+
+    <TextView
+        android:id="@+id/tvSDT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:background="@drawable/bg_textview_gray_border"
+        android:hint="Số điện thoại"/>
+
+    <TextView
+        android:id="@+id/tvDiaChi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:background="@drawable/bg_textview_gray_border"
+        android:hint="Địa chỉ"/>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_btn_blue_coner"
+        android:text="Chỉnh sửa"
+        android:textColor="#fff"
+        android:textSize="15dp"
+        android:onClick="btnEdit"/>
+</LinearLayout>
